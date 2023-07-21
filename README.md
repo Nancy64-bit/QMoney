@@ -1,2 +1,2 @@
-# QEats
-A food Ordering Application
+# QMoney
+A Stock Portfolio Analyzer
